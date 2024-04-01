@@ -1,7 +1,5 @@
 ## Hi there, I'm Boby Santoso 👋
 
-Lead Web Engineer at [NiceDay](https://niceday.app/en/get-started/)
-
 ---
 
 ## Social media
