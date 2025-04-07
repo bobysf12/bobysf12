@@ -1,23 +1,20 @@
-## Hi there, I'm Boby Santoso 👋
+### 👋 Hey, I’m Boby Santoso Freedantius
+
+**Full-stack dev • Builder • Proud new dad**
+
+I tinker with everything from **React & Node.js** to **Docker & DevOps**.  
+Currently CTO at [RiddleStory](https://riddlestory.com), leading a remote team building onboarding tools for Dutch companies.
+
+🧠 **Self-hosting nerd** — I run Home Assistant, file servers, and more on an old laptop.  
+🎮 **Casual gamer** — I buy games I’ll never finish.  
+🛠 Currently into: **CLI tools**, **AI workflows**, and living inside **NeoVim + Tmux**.
+
+### 🚀 Projects
+
+- [**Image Squeezer**](/squeeze) – Compress images fast, private, and free  
+- [**URL Shortener**](/zap) – No-login short links with stats  
+- [**Time Tracker**](https://github.com/bobysf12/timetracking) – Terminal-based productivity helper
 
 ---
 
-Visit my site: bybobyy.com
-
-## Social media
-
-[![GitHub](icons/github.png)](https://github.com/bobysf12)
-[![Twitter](icons/twitter.png)](https://twitter.com/bobysf12)
-[![Instagram](icons/instagram.png)](https://instagram.com/bobysf12)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/bobysantoso/)
-
-## Daily use
-
-<a href="https://reactjs.org/" title="ReactJS"><img src="icons/react.png" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://www.twilio.com/" title="Twilio"><img src="icons/twilio-video.png" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+📬 More at [**bybobyy.com**](https://bybobyy.com)
